@@ -81,7 +81,7 @@ Keep learning, building and contributing to impactful software projects 🌷
 
 > 💬 *"The best way to learn is by doing — I’m here to build, collaborate, and grow."* 🌸
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="start">📊 GitHub Stats</h2>
 
 <p align="center" style="background-color: #fff0f5; border-radius: 12px; box-shadow: 0 4px 8px rgba(255,105,180,0.2); padding: 10px;">
   <img 
