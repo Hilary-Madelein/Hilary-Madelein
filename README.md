@@ -1,6 +1,6 @@
 <!-- Banner GIF -->
 <p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZqY2VoNWV0bDNrb2VjdWYyZnB5cHdqZThncHk2dzZvZTU2MXoxZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif](https://i.pinimg.com/originals/48/ae/34/48ae34c6139c51f22f73ce96f9d88aa0.gif)" width="400" alt="Hello GIF"/>
+  <img src="https://i.pinimg.com/originals/48/ae/34/48ae34c6139c51f22f73ce96f9d88aa0.gif" width="400" alt="Hello GIF"/>
 </p>
 
 <h1 align="center">👋 Hi there, I'm Hilary Calva</h1>
