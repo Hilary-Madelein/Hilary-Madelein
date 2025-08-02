@@ -1,59 +1,79 @@
-## 👋 Hi there, I'm Hilary Calva
+<!-- Banner GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZqY2VoNWV0bDNrb2VjdWYyZnB5cHdqZThncHk2dzZvZTU2MXoxZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" alt="Hello GIF"/>
+</p>
 
-🎓 I’m a Computer Engineering student passionate about technology, learning, and building useful and creative solutions. While I’m still early in my career, I’ve already participated in:
+<h1 align="center">👋 Hi there, I'm Hilary Calva</h1>
 
-- 🧪 University research projects
-- 💼 Real-world simulations and client interactions
-- 🤝 Team-based development and collaboration environments
-
-🌱 **Currently learning:**
-- JavaScript & React
-- Node.js & Express
-- Database management with PostgreSQL
-- Git & GitHub collaboration
-
-👯 **Looking to collaborate on:**  
-- Open source projects  
-- Web development initiatives  
-- Any opportunity that helps me learn and grow!
-
-💬 **Ask me about:**  
-- My experience learning frontend/backend technologies  
-- Working in interdisciplinary teams  
-- How I approach real-world simulations as a student
-
-🎯 **Goals:**  
-Keep expanding my knowledge and contribute meaningfully to real-world tech solutions.
+<p align="center">
+  💻 Computer Engineering Graduate (Egresada) · 🌸 Curious Learner · 🤝 Team Player
+</p>
 
 ---
 
-## 🔧 My Skills Include
+🎓 I’m an **egresada** in *Computer Engineering* from Universidad Nacional de Loja, with an itinerary in **Software Engineering**. I’m passionate about technology, learning, and building useful and creative solutions that have real-world impact.
 
-### Languages & Frameworks
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+Throughout my academic journey, I’ve participated in:
+
+- 🧪 University research projects  
+- 💼 Simulations in real-world environments  
+- 🤝 Projects with real clients and interdisciplinary teamwork  
+
+🌱 **Currently improving skills in:**
+- React + Node.js + Express  
+- SQL, MongoDB, PostgreSQL  
+- Git/GitHub collaboration and DevOps basics  
+
+👯 **Looking to collaborate on:**  
+- Open source software  
+- Web and fullstack development projects  
+- Tech-for-good or educational tech initiatives  
+
+💬 **Ask me about:**  
+- Project management with tools like Trello, Jira, Taiga  
+- Applying tech in academic + real scenarios  
+- How I stay organized while learning new stacks  
+
+🎯 **Goals:**  
+Continue expanding my skills and contribute to impactful tech solutions.
+
+---
+
+## 🔧 My Skills
+
+### 🧠 Languages & Frameworks
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
 
-### Tools & Technologies
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+
+### ⚙️ Project & Version Control Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab)
+![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![Taiga](https://img.shields.io/badge/-Taiga-3BE8B0?style=flat&logo=taiga)
+![Monday](https://img.shields.io/badge/-Monday-ff6d00?style=flat&logo=monzo)
 
 ---
 
 ## 🌐 Let's Connect!
 
-📫 **Email:** madeleycc15@gmail.com 
-🎮 I enjoy coding, collaborating, and learning new things every day.  
-🎧 Outside of tech, I love music, games, and exploring science topics!
+📫 **Email:** madeleycc15@gmail.com  
+🔗 **LinkedIn:** [Hilary Calva](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BlYCco3b8QFqjKScqq7pUeg%3D%3D)  
+🎧 I enjoy music, science, movies, and baking!  
 
 ---
 
-> “The best way to learn is by doing — I’m here to build, collaborate, and grow.”
+> 💬 *“The best way to learn is by doing — I’m here to build, collaborate, and grow.”*
+
 
