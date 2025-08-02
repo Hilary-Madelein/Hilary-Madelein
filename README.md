@@ -80,3 +80,22 @@ Keep learning, building and contributing to impactful software projects 🌷
 ---
 
 > 💬 *"The best way to learn is by doing — I’m here to build, collaborate, and grow."* 🌸
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center" style="background-color: #fff0f5; border-radius: 12px; box-shadow: 0 4px 8px rgba(255,105,180,0.2); padding: 10px;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Hilary-Madelein&show_icons=true&theme=rose_pine&icon_color=ff69b4&title_color=ff69b4&text_color=ffb6c1&bg_color=fff0f5&border_radius=12" 
+    alt="GitHub Stats"
+    width="400"
+    style="border-radius: 12px; margin-bottom: 10px;"
+  />
+  <br/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilary-Madelein&layout=compact&theme=rose_pine&title_color=ff69b4&text_color=ffb6c1&bg_color=fff0f5&border_radius=12" 
+    alt="Top Languages"
+    width="320"
+    style="border-radius: 12px;"
+  />
+</p>
+
