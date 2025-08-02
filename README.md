@@ -1,13 +1,13 @@
-<!-- Encabezado con GIF y presentación lado a lado -->
-<table>
+<!-- Encabezado con GIF y presentación lado a lado sin bordes -->
+<table border="0">
   <tr>
-    <td>
+    <td valign="top">
 
 ### ✨ Hi there, I'm **Hilary Calva**  
 💻 *Computer Engineering Graduate (Egresada)*  
 🌸 *Curious Learner · Team Player · Passionate Coder*
 
-I’m a *Computer Engineering* from Universidad Nacional de Loja, with an itinerary in **Software Engineering**. I’m passionate about technology, learning, and building useful and creative solutions that make a real impact.
+I’m a *Computer Engineering* graduate from Universidad Nacional de Loja, with an itinerary in **Software Engineering**. I’m passionate about technology, learning, and building useful and creative solutions that make a real impact.
 
 During my academic journey, I’ve participated in:
 
@@ -18,7 +18,6 @@ During my academic journey, I’ve participated in:
 **Currently focusing on:**
 - React, Node.js & Express  
 - SQL, MongoDB, PostgreSQL  
-- GitHub collaboration & DevOps basics
 
 **Ask me about:**
 - Project management tools (Trello, Jira, Taiga, Monday)  
@@ -29,7 +28,7 @@ During my academic journey, I’ve participated in:
 Keep learning, building and contributing to impactful software projects 🌷
 
 📫 [Email me](mailto:madeleycc15@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BlYCco3b8QFqjKScqq7pUeg%3D%3D)
+🔗 [Hilary Calva on LinkedIn](https://www.linkedin.com/in/hilarycalva)
 
 🧁 I enjoy music, science, movies and baking!
 
@@ -48,15 +47,26 @@ Keep learning, building and contributing to impactful software projects 🌷
 ![Java](https://img.shields.io/badge/Java-FFB6C1?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FF69B4?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFC0CB?style=flat&logo=javascript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-FADADD?style=flat&logo=dart)
+![Flutter](https://img.shields.io/badge/Flutter-F4A6C1?style=flat&logo=flutter)
 ![Node.js](https://img.shields.io/badge/Node.js-F4A6C1?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/React-FFB6C1?style=flat&logo=react)
 ![Express](https://img.shields.io/badge/Express-FFC0CB?style=flat&logo=express)
-![Arduino](https://img.shields.io/badge/Arduino-FF69B4?style=flat&logo=arduino)
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-FADADD?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFC0CB?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-FFC0CB?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FB8DA0?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-FFB6C1?style=flat&logo=mongodb)
+![MariaDB](https://img.shields.io/badge/MariaDB-FADADD?style=flat&logo=mariadb)
+
+### 🧰 Tools & Platforms
+![Arduino](https://img.shields.io/badge/Arduino-FF69B4?style=flat&logo=arduino)
+![Cisco](https://img.shields.io/badge/Cisco-FFC0CB?style=flat&logo=cisco)
+![Azure](https://img.shields.io/badge/Azure-F4A6C1?style=flat&logo=microsoftazure)
+![Canva](https://img.shields.io/badge/Canva-FFB6C1?style=flat&logo=canva)
+![Docker](https://img.shields.io/badge/Docker-FADADD?style=flat&logo=docker)
+![NGINX](https://img.shields.io/badge/NGINX-FF9AA2?style=flat&logo=nginx)
+![Insomnia](https://img.shields.io/badge/Insomnia-FFC0CB?style=flat&logo=insomnia)
 
 ### 📋 Project & Version Control
 ![Git](https://img.shields.io/badge/Git-FF69B4?style=flat&logo=git)
@@ -69,15 +79,4 @@ Keep learning, building and contributing to impactful software projects 🌷
 
 ---
 
-> ✨ *"The best way to learn is by doing — I’m here to build, collaborate, and grow."* 🌸
-
-
-📫 **Email:** madeleycc15@gmail.com  
-🔗 **LinkedIn:** [Hilary Calva](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BlYCco3b8QFqjKScqq7pUeg%3D%3D)  
-🎧 I enjoy music, science, movies, and baking!  
-
----
-
-> 💬 *“The best way to learn is by doing — I’m here to build, collaborate, and grow.”*
-
-
+> 💬 *"The best way to learn is by doing — I’m here to build, collaborate, and grow."* 🌸
