@@ -4,7 +4,7 @@
     <td valign="top">
 
 ### ✨ Hi there, I'm **Hilary Calva**  
-💻 *Computer Engineering Graduate (Egresada)*  
+💻 *Full Stack Junior Developer*  
 🌸 *Curious Learner · Team Player · Passionate Coder*
 
 I’m a *Computer Engineering* graduate from Universidad Nacional de Loja, with an itinerary in **Software Engineering**. I’m passionate about technology, learning, and building useful and creative solutions that make a real impact.
@@ -43,43 +43,52 @@ Keep learning, building and contributing to impactful software projects 🌷
 
 ## 🔧 My Skills
 
-### 💡 Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-FFB6C1?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FF69B4?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFC0CB?style=flat&logo=javascript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-FADADD?style=flat&logo=dart)
-![Flutter](https://img.shields.io/badge/Flutter-F4A6C1?style=flat&logo=flutter)
-![Node.js](https://img.shields.io/badge/Node.js-F4A6C1?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/React-FFB6C1?style=flat&logo=react)
-![Express](https://img.shields.io/badge/Express-FFC0CB?style=flat&logo=express)
+<table border="0">
+  <tr>
+    <td valign="top" width="50%">
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-FFC0CB?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FB8DA0?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-FFB6C1?style=flat&logo=mongodb)
-![MariaDB](https://img.shields.io/badge/MariaDB-FADADD?style=flat&logo=mariadb)
+### 💡 Languages & Frameworks  
+![Java](https://img.shields.io/badge/Java-FFB6C1?style=flat&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-FF69B4?style=flat&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-FFC0CB?style=flat&logo=javascript&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-FADADD?style=flat&logo=dart)  
+![Flutter](https://img.shields.io/badge/Flutter-F4A6C1?style=flat&logo=flutter)  
+![Node.js](https://img.shields.io/badge/Node.js-F4A6C1?style=flat&logo=node.js)  
+![React](https://img.shields.io/badge/React-FFB6C1?style=flat&logo=react)  
+![Express](https://img.shields.io/badge/Express-FFC0CB?style=flat&logo=express)  
 
-### 🧰 Tools & Platforms
-![Arduino](https://img.shields.io/badge/Arduino-FF69B4?style=flat&logo=arduino)
-![Cisco](https://img.shields.io/badge/Cisco-FFC0CB?style=flat&logo=cisco)
-![Azure](https://img.shields.io/badge/Azure-F4A6C1?style=flat&logo=microsoftazure)
-![Canva](https://img.shields.io/badge/Canva-FFB6C1?style=flat&logo=canva)
-![Docker](https://img.shields.io/badge/Docker-FADADD?style=flat&logo=docker)
-![NGINX](https://img.shields.io/badge/NGINX-FF9AA2?style=flat&logo=nginx)
-![Insomnia](https://img.shields.io/badge/Insomnia-FFC0CB?style=flat&logo=insomnia)
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-FFC0CB?style=flat&logo=mysql)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FB8DA0?style=flat&logo=postgresql)  
+![MongoDB](https://img.shields.io/badge/MongoDB-FFB6C1?style=flat&logo=mongodb)  
+![MariaDB](https://img.shields.io/badge/MariaDB-FADADD?style=flat&logo=mariadb)  
 
-### 📋 Project & Version Control
-![Git](https://img.shields.io/badge/Git-FF69B4?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-FFC0CB?style=flat&logo=github)
-![GitLab](https://img.shields.io/badge/GitLab-FB8DA0?style=flat&logo=gitlab)
-![Trello](https://img.shields.io/badge/Trello-FADADD?style=flat&logo=trello)
-![Jira](https://img.shields.io/badge/Jira-FFB6C1?style=flat&logo=jira)
-![Taiga](https://img.shields.io/badge/Taiga-FCC8D1?style=flat&logo=taiga)
-![Monday](https://img.shields.io/badge/Monday-FF9AA2?style=flat&logo=monzo)
+</td>
+    <td valign="top" width="50%">
+
+### 🧰 Tools & Platforms  
+![Arduino](https://img.shields.io/badge/Arduino-FF69B4?style=flat&logo=arduino)  
+![Cisco](https://img.shields.io/badge/Cisco-FFC0CB?style=flat&logo=cisco)  
+![Azure](https://img.shields.io/badge/Azure-F4A6C1?style=flat&logo=microsoftazure)  
+![Canva](https://img.shields.io/badge/Canva-FFB6C1?style=flat&logo=canva)  
+![Docker](https://img.shields.io/badge/Docker-FADADD?style=flat&logo=docker)  
+![NGINX](https://img.shields.io/badge/NGINX-FF9AA2?style=flat&logo=nginx)  
+![Insomnia](https://img.shields.io/badge/Insomnia-FFC0CB?style=flat&logo=insomnia)  
+
+### 📋 Project & Version Control  
+![Git](https://img.shields.io/badge/Git-FF69B4?style=flat&logo=git)  
+![GitHub](https://img.shields.io/badge/GitHub-FFC0CB?style=flat&logo=github)  
+![GitLab](https://img.shields.io/badge/GitLab-FB8DA0?style=flat&logo=gitlab)  
+![Trello](https://img.shields.io/badge/Trello-FADADD?style=flat&logo=trello)  
+![Jira](https://img.shields.io/badge/Jira-FFB6C1?style=flat&logo=jira)  
+![Taiga](https://img.shields.io/badge/Taiga-FCC8D1?style=flat&logo=taiga)  
+![Monday](https://img.shields.io/badge/Monday-FF9AA2?style=flat&logo=monzo)  
+
+</td>
+  </tr>
+</table>
 
 ---
-
-> 💬 *"The best way to learn is by doing — I’m here to build, collaborate, and grow."* 🌸
 
 <h2 align="start">📊 GitHub Stats</h2>
 
@@ -99,3 +108,6 @@ Keep learning, building and contributing to impactful software projects 🌷
   />
 </p>
 
+---
+
+> 💬 *"The best way to learn is by doing — I’m here to build, collaborate, and grow."* 🌸
