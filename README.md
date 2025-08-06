@@ -78,6 +78,9 @@ Keep learning, building and contributing to impactful software projects 🌷
   <img src="https://img.shields.io/badge/Cisco-FFC0CB?style=flat&logo=cisco"/>  
   <img src="https://img.shields.io/badge/Azure-F4A6C1?style=flat&logo=microsoftazure"/>  
   <img src="https://img.shields.io/badge/Canva-FFB6C1?style=flat&logo=canva"/>  
+  <img src="https://img.shields.io/badge/CSS3-FFC0CB?style=flat&logo=css3&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=flat&logo=html5&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/StarUML-FF69B4?style=flat&logo=uml&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Docker-FADADD?style=flat&logo=docker"/>  
   <img src="https://img.shields.io/badge/NGINX-FF9AA2?style=flat&logo=nginx"/>  
   <img src="https://img.shields.io/badge/Insomnia-FFC0CB?style=flat&logo=insomnia"/>  
