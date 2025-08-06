@@ -123,13 +123,13 @@ Keep learning, building and contributing to impactful software projects 🌷
 ---
 
 ## 🌐 Socials
-<p align="center">
+<p align="start">
   <a href="mailto:madeleycc15@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FFC0CB?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/hilary-madeley-calva-camacho">
-    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/hilary-madeley-calva-camacho">
+  <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=flat&logo=linkedin&logoColor=white"/>
+</a>
   <a href="https://www.instagram.com/hilarycalva_?igsh=eDhweWV0MnU3dnA4">
     <img src="https://img.shields.io/badge/Instagram-FB8DA0?style=flat&logo=instagram&logoColor=white"/>
   </a>
