@@ -43,34 +43,66 @@ Keep learning, building and contributing to impactful software projects 🌷
 
 ## 🔧 My Skills
 
-### 💡 Languages & Frameworks  
-![Java](https://img.shields.io/badge/Java-FFB6C1?style=flat&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-FF69B4?style=flat&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-FFC0CB?style=flat&logo=javascript&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-FADADD?style=flat&logo=dart)  
-![Flutter](https://img.shields.io/badge/Flutter-F4A6C1?style=flat&logo=flutter)  
-![Node.js](https://img.shields.io/badge/Node.js-F4A6C1?style=flat&logo=node.js)  
-![React](https://img.shields.io/badge/React-FFB6C1?style=flat&logo=react)  
-![Express](https://img.shields.io/badge/Express-FFC0CB?style=flat&logo=express)  
+<table border="0" width="100%">
+  <tr>
+    <td valign="top" width="33%">
 
----
+### 💡 Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Java-FFB6C1?style=flat&logo=java&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Python-FF69B4?style=flat&logo=python&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/JavaScript-FFC0CB?style=flat&logo=javascript&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Dart-FADADD?style=flat&logo=dart"/>  
+  <img src="https://img.shields.io/badge/Flutter-F4A6C1?style=flat&logo=flutter"/>  
+  <img src="https://img.shields.io/badge/Node.js-F4A6C1?style=flat&logo=node.js"/>  
+  <img src="https://img.shields.io/badge/React-FFB6C1?style=flat&logo=react"/>  
+  <img src="https://img.shields.io/badge/Express-FFC0CB?style=flat&logo=express"/>  
+</p>
 
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-FFC0CB?style=flat&logo=mysql)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FB8DA0?style=flat&logo=postgresql)  
-![MongoDB](https://img.shields.io/badge/MongoDB-FFB6C1?style=flat&logo=mongodb)  
-![MariaDB](https://img.shields.io/badge/MariaDB-FADADD?style=flat&logo=mariadb)  
+</td>
+    <td valign="top" width="33%">
 
----
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-FFC0CB?style=flat&logo=mysql"/>  
+  <img src="https://img.shields.io/badge/PostgreSQL-FB8DA0?style=flat&logo=postgresql"/>  
+  <img src="https://img.shields.io/badge/MongoDB-FFB6C1?style=flat&logo=mongodb"/>  
+  <img src="https://img.shields.io/badge/MariaDB-FADADD?style=flat&logo=mariadb"/>  
+</p>
 
-### 🧰 Tools & Platforms  
-![Arduino](https://img.shields.io/badge/Arduino-FF69B4?style=flat&logo=arduino)  
-![Cisco](https://img.shields.io/badge/Cisco-FFC0CB?style=flat&logo=cisco)  
-![Azure](https://img.shields.io/badge/Azure-F4A6C1?style=flat&logo=microsoftazure)  
-![Canva](https://img.shields.io/badge/Canva-FFB6C1?style=flat&logo=canva)  
-![Docker](https://img.shields.io/badge/Docker-FADADD?style=flat&logo=docker)  
-![NGINX](https://img.shields.io/badge/NGINX-FF9AA2?style=flat&logo=nginx)  
-![Insomnia](https://img.shields.io/badge/Insomnia-FFC0CB?style=flat&logo=insomnia)  
+</td>
+    <td valign="top" width="33%">
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Arduino-FF69B4?style=flat&logo=arduino"/>  
+  <img src="https://img.shields.io/badge/Cisco-FFC0CB?style=flat&logo=cisco"/>  
+  <img src="https://img.shields.io/badge/Azure-F4A6C1?style=flat&logo=microsoftazure"/>  
+  <img src="https://img.shields.io/badge/Canva-FFB6C1?style=flat&logo=canva"/>  
+  <img src="https://img.shields.io/badge/Docker-FADADD?style=flat&logo=docker"/>  
+  <img src="https://img.shields.io/badge/NGINX-FF9AA2?style=flat&logo=nginx"/>  
+  <img src="https://img.shields.io/badge/Insomnia-FFC0CB?style=flat&logo=insomnia"/>  
+</p>
+
+</td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+
+### 📋 Project & Version Control
+<p>
+  <img src="https://img.shields.io/badge/Git-FF69B4?style=flat&logo=git"/>  
+  <img src="https://img.shields.io/badge/GitHub-FFC0CB?style=flat&logo=github"/>  
+  <img src="https://img.shields.io/badge/GitLab-FB8DA0?style=flat&logo=gitlab"/>  
+  <img src="https://img.shields.io/badge/Trello-FADADD?style=flat&logo=trello"/>  
+  <img src="https://img.shields.io/badge/Jira-FFB6C1?style=flat&logo=jira"/>  
+  <img src="https://img.shields.io/badge/Taiga-FCC8D1?style=flat&logo=taiga"/>  
+  <img src="https://img.shields.io/badge/Monday-FF9AA2?style=flat&logo=monzo"/>  
+</p>
+
+</td>
+  </tr>
+</table>
 
 ---
 
