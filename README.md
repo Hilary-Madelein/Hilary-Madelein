@@ -1,4 +1,4 @@
-<!-- Encabezado con GIF y presentación lado a lado sin bordes -->
+<!-- Encabezado con GIF y presentación -->
 <table border="0">
   <tr>
     <td valign="top">
@@ -43,10 +43,6 @@ Keep learning, building and contributing to impactful software projects 🌷
 
 ## 🔧 My Skills
 
-<table border="0">
-  <tr>
-    <td valign="top" width="50%">
-
 ### 💡 Languages & Frameworks  
 ![Java](https://img.shields.io/badge/Java-FFB6C1?style=flat&logo=java&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-FF69B4?style=flat&logo=python&logoColor=white)  
@@ -57,14 +53,15 @@ Keep learning, building and contributing to impactful software projects 🌷
 ![React](https://img.shields.io/badge/React-FFB6C1?style=flat&logo=react)  
 ![Express](https://img.shields.io/badge/Express-FFC0CB?style=flat&logo=express)  
 
+---
+
 ### 🗄️ Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-FFC0CB?style=flat&logo=mysql)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FB8DA0?style=flat&logo=postgresql)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-FFB6C1?style=flat&logo=mongodb)  
 ![MariaDB](https://img.shields.io/badge/MariaDB-FADADD?style=flat&logo=mariadb)  
 
-</td>
-    <td valign="top" width="50%">
+---
 
 ### 🧰 Tools & Platforms  
 ![Arduino](https://img.shields.io/badge/Arduino-FF69B4?style=flat&logo=arduino)  
@@ -75,6 +72,8 @@ Keep learning, building and contributing to impactful software projects 🌷
 ![NGINX](https://img.shields.io/badge/NGINX-FF9AA2?style=flat&logo=nginx)  
 ![Insomnia](https://img.shields.io/badge/Insomnia-FFC0CB?style=flat&logo=insomnia)  
 
+---
+
 ### 📋 Project & Version Control  
 ![Git](https://img.shields.io/badge/Git-FF69B4?style=flat&logo=git)  
 ![GitHub](https://img.shields.io/badge/GitHub-FFC0CB?style=flat&logo=github)  
@@ -84,27 +83,22 @@ Keep learning, building and contributing to impactful software projects 🌷
 ![Taiga](https://img.shields.io/badge/Taiga-FCC8D1?style=flat&logo=taiga)  
 ![Monday](https://img.shields.io/badge/Monday-FF9AA2?style=flat&logo=monzo)  
 
-</td>
-  </tr>
-</table>
-
 ---
 
-<h2 align="start">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
-<p align="center" style="background-color: #fff0f5; border-radius: 12px; box-shadow: 0 4px 8px rgba(255,105,180,0.2); padding: 10px;">
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Hilary-Madelein&show_icons=true&theme=rose_pine&icon_color=ff69b4&title_color=ff69b4&text_color=ffb6c1&bg_color=fff0f5&border_radius=12" 
     alt="GitHub Stats"
     width="400"
-    style="border-radius: 12px; margin-bottom: 10px;"
+    style="border-radius: 12px; margin: 10px;"
   />
-  <br/>
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilary-Madelein&layout=compact&theme=rose_pine&title_color=ff69b4&text_color=ffb6c1&bg_color=fff0f5&border_radius=12" 
     alt="Top Languages"
-    width="320"
-    style="border-radius: 12px;"
+    width="350"
+    style="border-radius: 12px; margin: 10px;"
   />
 </p>
 
