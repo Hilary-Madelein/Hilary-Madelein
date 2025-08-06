@@ -27,9 +27,6 @@ During my academic journey, I’ve participated in:
 **Goals:**  
 Keep learning, building and contributing to impactful software projects 🌷
 
-📫 [Email me](mailto:madeleycc15@gmail.com)  
-🔗 [Hilary Calva on LinkedIn](https://www.linkedin.com/in/hilarycalva)
-
 🧁 I enjoy music, science, movies and baking!
 
 </td>
@@ -121,6 +118,21 @@ Keep learning, building and contributing to impactful software projects 🌷
     width="350"
     style="border-radius: 12px; margin: 10px;"
   />
+</p>
+
+---
+
+## 🌐 Socials
+<p align="center">
+  <a href="mailto:madeleycc15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FFC0CB?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="www.linkedin.com/in/hilary-madeley-calva-camacho">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/hilarycalva_?igsh=eDhweWV0MnU3dnA4">
+    <img src="https://img.shields.io/badge/Instagram-FB8DA0?style=flat&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
