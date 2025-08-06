@@ -45,7 +45,7 @@ Keep learning, building and contributing to impactful software projects 🌷
 
 <table border="0" width="100%">
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
 
 ### 💡 Languages & Frameworks
 <p>
@@ -60,7 +60,7 @@ Keep learning, building and contributing to impactful software projects 🌷
 </p>
 
 </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
 
 ### 🗄️ Databases
 <p>
@@ -71,7 +71,9 @@ Keep learning, building and contributing to impactful software projects 🌷
 </p>
 
 </td>
-    <td valign="top" width="33%">
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
 
 ### 🧰 Tools & Platforms
 <p>
@@ -85,9 +87,7 @@ Keep learning, building and contributing to impactful software projects 🌷
 </p>
 
 </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center">
+    <td valign="top" width="50%">
 
 ### 📋 Project & Version Control
 <p>
@@ -103,17 +103,6 @@ Keep learning, building and contributing to impactful software projects 🌷
 </td>
   </tr>
 </table>
-
----
-
-### 📋 Project & Version Control  
-![Git](https://img.shields.io/badge/Git-FF69B4?style=flat&logo=git)  
-![GitHub](https://img.shields.io/badge/GitHub-FFC0CB?style=flat&logo=github)  
-![GitLab](https://img.shields.io/badge/GitLab-FB8DA0?style=flat&logo=gitlab)  
-![Trello](https://img.shields.io/badge/Trello-FADADD?style=flat&logo=trello)  
-![Jira](https://img.shields.io/badge/Jira-FFB6C1?style=flat&logo=jira)  
-![Taiga](https://img.shields.io/badge/Taiga-FCC8D1?style=flat&logo=taiga)  
-![Monday](https://img.shields.io/badge/Monday-FF9AA2?style=flat&logo=monzo)  
 
 ---
 
