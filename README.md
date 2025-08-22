@@ -51,7 +51,7 @@ Keep learning, building and contributing to impactful software projects 🌷
   <img src="https://img.shields.io/badge/JavaScript-FFC0CB?style=flat&logo=javascript&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Dart-FADADD?style=flat&logo=dart"/>  
   <img src="https://img.shields.io/badge/Flutter-F4A6C1?style=flat&logo=flutter"/>  
-  <img src="https://img.shields.io/badge/Node.js-F4A6C1?style=flat&logo=node.js"/>  
+  <img src="https://img.shields.io/badge/Node.js-F4A6C1?style=flat&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-FFB6C1?style=flat&logo=react"/>  
   <img src="https://img.shields.io/badge/Express-FFC0CB?style=flat&logo=express"/>  
 </p>
