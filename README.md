@@ -104,26 +104,6 @@ Keep learning, building and contributing to impactful software projects 🌷
   </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Hilary-Madelein&show_icons=true&theme=rose_pine&icon_color=ff69b4&title_color=ff69b4&text_color=ffb6c1&bg_color=fff0f5&border_radius=12" 
-    alt="GitHub Stats"
-    width="400"
-    style="border-radius: 12px; margin: 10px;"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilary-Madelein&layout=compact&theme=rose_pine&title_color=ff69b4&text_color=ffb6c1&bg_color=fff0f5&border_radius=12" 
-    alt="Top Languages"
-    width="350"
-    style="border-radius: 12px; margin: 10px;"
-  />
-</p>
-
----
 
 ## 🌐 Socials
 <p align="start">
