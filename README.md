@@ -4,7 +4,7 @@
     <td valign="top">
 
 ### ✨ Hi there, I'm **Hilary Calva**  
-💻 *Full Stack Junior Developer*  
+💻 *Full Stack Developer*  
 🌸 *Curious Learner · Team Player · Passionate Coder*
 
 I’m a *Computer Engineering* graduate from Universidad Nacional de Loja, with an itinerary in **Software Engineering**. I’m passionate about technology, learning, and building useful and creative solutions that make a real impact.
